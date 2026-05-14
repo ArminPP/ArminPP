@@ -24,7 +24,7 @@
 
 Ich bin Armin Patrick Pressler und dokumentiere auf [Armin-Pressler.at](https://www.armin-pressler.at/) Projekte an der Schnittstelle von Technik, Wissenschaft und Kunst.
 
-Schwerpunkte:
+Leidenschaften:
 - Astrofotografie und Astronomie (Deep-Sky, Planeten, Sternenwarten)
 - Fine-Art-Fotografie (Studio, Porträt, Publikationen)
 - Oldtimer und Reisen (Triumph Spitfire MKIV, Africa Twin 750, Roadtrips, Restaurierung)
@@ -128,7 +128,7 @@ Kompakter Edge-Sensor für Predictive Maintenance auf X/Y/Z.
 ### About Me
 I am Armin Patrick Pressler, and on [Armin-Pressler.at](https://www.armin-pressler.at/) I document projects at the intersection of technology, science, and art.
 
-Core interests:
+Passions:
 - Astrophotography and astronomy (deep-sky, planetary, observatory builds)
 - Fine-art photography (studio work, portraits, publications)
 - Classic cars and travel (Triumph Spitfire MKIV, Africa Twin 750, restoration, long tours)
