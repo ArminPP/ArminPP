@@ -40,10 +40,10 @@ Ich kombiniere diese Themen mit eigener Hard- und Software, um robuste und praxi
 <tr>
 <td>
 
-### 🔷 StepperFocus32 (für astronomische Teleskope)
+#### 🔷 StepperFocus32 (für astronomische Teleskope)
 
 <details>
-<summary><strong>&emsp;&emsp;Hier klicken für Details zum StepperFocus32</strong></summary>
+<summary>&emsp;Hier klicken für Details zum StepperFocus32</summary>
 
 Moonlite-kompatibler Teleskop-Fokussierer mit ESP32 und DRV8833.
 - Zuverlässiger Betrieb mit Voll- und Halbschritt
@@ -61,10 +61,10 @@ Moonlite-kompatibler Teleskop-Fokussierer mit ESP32 und DRV8833.
 <tr>
 <td>
 
-### 🔷 Boiler-Steuerung
+#### 🔷 Boiler-Steuerung
 
 <details>
-<summary><strong>&emsp;&emsp;Hier klicken für Details zur Boiler-Steuerung</strong></summary>
+<summary>&emsp;Hier klicken für Details zur Boiler-Steuerung</summary>
 
 Intelligente Warmwassersteuerung mit M5Stack Core2.
 - Touch-Bedienung am Gerät und Webfrontend im LAN
@@ -81,10 +81,10 @@ Intelligente Warmwassersteuerung mit M5Stack Core2.
 <tr>
 <td>
 
-### 🔷 CCDS - ClassicCarDiagnosticSystem
+#### 🔷 CCDS - ClassicCarDiagnosticSystem
 
 <details>
-<summary><strong>&emsp;&emsp;Hier klicken für Details zum ClassicCarDiagnosticSystem</strong></summary>
+<summary>&emsp;Hier klicken für Details zum ClassicCarDiagnosticSystem</summary>
 
 Telemetrie- und Logging-System für klassische Fahrzeuge.
 - Verteilte ESP32-Architektur
@@ -101,10 +101,10 @@ Telemetrie- und Logging-System für klassische Fahrzeuge.
 <tr>
 <td>
 
-### 🔷 Ultra-Low-Cost Schwingungssensor
+#### 🔷 Ultra-Low-Cost Schwingungssensor
 
 <details>
-<summary><strong>&emsp;&emsp;Hier klicken für Details zum Schwingungssensor</strong></summary>
+<summary>&emsp;Hier klicken für Details zum Schwingungssensor</summary>
 
 Kompakter Edge-Sensor für Predictive Maintenance auf X/Y/Z.
 - Berechnet direkt am Gerät: RMS Acceleration, RMS Velocity (ISO 10816), Crest, Envelope Crest, Kurtosis, K(t), Peak-to-Peak, Trend, Temperatur
@@ -144,10 +144,10 @@ I combine these fields with custom hardware and software to build practical, rel
 <tr>
 <td>
 
-### 🔷 StepperFocus32 (for astronomical telescopes)
+#### 🔷 StepperFocus32 (for astronomical telescopes)
 
 <details>
-<summary><strong>&emsp;&emsp;Click here for details on StepperFocus32</strong></summary>
+<summary>&emsp;Click here for details on StepperFocus32</summary>
 
 Moonlite-compatible telescope focuser based on ESP32 and DRV8833.
 - Reliable full-step and half-step operation
@@ -165,10 +165,10 @@ Moonlite-compatible telescope focuser based on ESP32 and DRV8833.
 <tr>
 <td>
 
-### 🔷 Smart Boiler Control
+#### 🔷 Smart Boiler Control
 
 <details>
-<summary><strong>&emsp;&emsp;Click here for details on Smart Boiler Control</strong></summary>
+<summary>&emsp;Click here for details on Smart Boiler Control</summary>
 
 Intelligent hot-water controller using M5Stack Core2.
 - On-device touch UI plus LAN web frontend
@@ -185,10 +185,10 @@ Intelligent hot-water controller using M5Stack Core2.
 <tr>
 <td>
 
-### 🔷 CCDS - ClassicCarDiagnosticSystem
+#### 🔷 CCDS - ClassicCarDiagnosticSystem
 
 <details>
-<summary><strong>&emsp;&emsp;Click here for details on ClassicCarDiagnosticSystem</strong></summary>
+<summary>&emsp;Click here for details on ClassicCarDiagnosticSystem</summary>
 
 Telemetry and logging platform for classic vehicles.
 - Distributed ESP32 architecture
@@ -205,10 +205,10 @@ Telemetry and logging platform for classic vehicles.
 <tr>
 <td>
 
-### 🔷 Ultra-Low-Cost Vibration Sensor
+#### 🔷 Ultra-Low-Cost Vibration Sensor
 
 <details>
-<summary><strong>&emsp;&emsp;Click here for details on the Vibration Sensor</strong></summary>
+<summary>&emsp;Click here for details on the Vibration Sensor</summary>
 
 Compact edge sensor for predictive maintenance on X/Y/Z axes.
 - On-device metrics: RMS acceleration, RMS velocity (ISO 10816), crest, envelope crest, kurtosis, K(t), peak-to-peak, trend, temperature
