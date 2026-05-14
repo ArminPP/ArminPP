@@ -5,6 +5,11 @@
   <a href="#english"><img alt="English" src="https://img.shields.io/badge/English-4F6D7A?style=for-the-badge"></a>
 </p>
 
+![github stats](https://github-readme-stats.vercel.app/api?username=ArminPP)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminPP)
+
+
+
 ---
 
 <a id="deutsch"></a>
