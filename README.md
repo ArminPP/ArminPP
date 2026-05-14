@@ -1,14 +1,20 @@
-# Welcome to my GitHub Profile
-
 <p align="center">
   <a href="#deutsch"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-1F4E79?style=for-the-badge"></a>
   <a href="#english"><img alt="English" src="https://img.shields.io/badge/English-4F6D7A?style=for-the-badge"></a>
 </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ArminPP)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminPP)
-
-
+<p align="center">
+  <img alt="C++" height="18" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=Plastic" />
+  <img alt="C" height="18" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=Plastic" />
+  <img alt="Python" height="18" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=Plastic" />
+  <img alt="ESP32" height="18" src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white&style=Plastic" />
+  <img alt="Arduino" height="18" src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white&style=Plastic" />
+  <img alt="VS Code" height="18" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=Plastic" />
+  <img alt="React" height="18" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=Plastic" />
+  <img alt="JavaScript" height="18" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=Plastic" />
+  <img alt="HTML" height="18" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=Plastic" />
+  <img alt="CSS" height="18" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=Plastic" />
+</p>
 
 ---
 
