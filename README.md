@@ -6,7 +6,9 @@
 </p>
 
 ---
+
 <a id="deutsch"></a>
+
 ### Über mich
 
 Ich bin Armin Pressler und dokumentiere auf [Armin-Pressler.at](https://www.armin-pressler.at/) Projekte an der Schnittstelle von Technik, Wissenschaft und Kunst.
@@ -23,7 +25,14 @@ Ich kombiniere diese Themen mit eigener Hard- und Software, um robuste und praxi
 
 ### Weitere Projekte (aktiv in Entwicklung, noch nicht veröffentlicht)
 
-<summary><strong>a) StepperFocus32</strong></summary>
+<!-- PROJECT A: CCDS - Boiler-Steuerung -->
+<tr>
+<td>
+
+### 🔷 StepperFocus32 (für astronomische Teleskope)
+
+<details>
+<summary><strong>&emsp;&emsp;Hier klicken für Details zum StepperFocus32</strong></summary>
 
 Moonlite-kompatibler Teleskop-Fokussierer mit ESP32 und DRV8833.
 - Zuverlässiger Betrieb mit Voll- und Halbschritt
@@ -32,23 +41,59 @@ Moonlite-kompatibler Teleskop-Fokussierer mit ESP32 und DRV8833.
 - Haltestrom als elektronische Bremse zur Fokusstabilisierung
 - uvm...
 
-<summary><strong>b) Boiler-Steuerung</strong></summary>
+</details>
+
+</td>
+</tr>
+
+<!-- PROJECT B: CCDS - Boiler-Steuerung -->
+<tr>
+<td>
+
+### 🔷 Boiler-Steuerung
+
+<details>
+<summary><strong>&emsp;&emsp;Hier klicken für Details zur Boiler-Steuerung</strong></summary>
 
 Intelligente Warmwassersteuerung mit M5Stack Core2.
 - Touch-Bedienung am Gerät und Webfrontend im LAN
 - DS18B20-basierte Temperaturüberwachung
 - Automatische Legionellen-Schutzzyklen
 - uvm...
-  
-<summary><strong>c) CCDS - ClassicCarDiagnosticSystem</strong></summary>
+
+</details>
+
+</td>
+</tr>
+
+<!-- PROJECT C: CCDS - ClassicCarDiagnosticSystem -->
+<tr>
+<td>
+
+### 🔷 CCDS - ClassicCarDiagnosticSystem
+
+<details>
+<summary><strong>&emsp;&emsp;Hier klicken für Details zum ClassicCarDiagnosticSystem</strong></summary>
 
 Telemetrie- und Logging-System für klassische Fahrzeuge.
 - Verteilte ESP32-Architektur
 - Live-Monitoring zentraler Motorkenndaten
 - AFR/Lambda, Öldruck, RPM, Geschwindigkeit, Öltemperatur, TPS, MAP
 - uvm...
-  
-<summary><strong>d) Ultra-Low-Cost Schwingungssensor</strong></summary>
+
+</details>
+
+</td>
+</tr>
+
+<!-- PROJECT D: Ultra-Low-Cost Schwingungssensor -->
+<tr>
+<td>
+
+### 🔷 Ultra-Low-Cost Schwingungssensor
+
+<details>
+<summary><strong>&emsp;&emsp;Hier klicken für Details zum Schwingungssensor</strong></summary>
 
 Kompakter Edge-Sensor für Predictive Maintenance auf X/Y/Z.
 - Berechnet direkt am Gerät: RMS Acceleration, RMS Velocity (ISO 10816), Crest, Envelope Crest, Kurtosis, K(t), Peak-to-Peak, Trend, Temperatur
@@ -58,10 +103,18 @@ Kompakter Edge-Sensor für Predictive Maintenance auf X/Y/Z.
 - Betrieb, OTA-Update, Backup/Restore und Passwortschutz im Browser
 - uvm...
 
+</details>
+
+</td>
+</tr>
+
 ---
 ---
+---
+
 <a id="english"></a>
-## About Me
+
+### About Me
 I am Armin Pressler, and on [Armin-Pressler.at](https://www.armin-pressler.at/) I document projects at the intersection of technology, science, and art.
 
 Core interests:
@@ -76,7 +129,14 @@ I combine these fields with custom hardware and software to build practical, rel
 
 ### Additional Projects (actively developed, not public at the moment)
 
-<summary><strong>a) StepperFocus32</strong></summary>
+<!-- PROJECT A: StepperFocus32 -->
+<tr>
+<td>
+
+### 🔷 StepperFocus32 (for astronomical telescopes)
+
+<details>
+<summary><strong>&emsp;&emsp;Click here for details on StepperFocus32</strong></summary>
 
 Moonlite-compatible telescope focuser based on ESP32 and DRV8833.
 - Reliable full-step and half-step operation
@@ -85,23 +145,59 @@ Moonlite-compatible telescope focuser based on ESP32 and DRV8833.
 - Holding current used as electronic brake for stable focus
 - and much more ...
 
-<summary><strong>b) Smart Boiler Control</strong></summary>
+</details>
+
+</td>
+</tr>
+
+<!-- PROJECT B: Smart Boiler Control -->
+<tr>
+<td>
+
+### 🔷 Smart Boiler Control
+
+<details>
+<summary><strong>&emsp;&emsp;Click here for details on Smart Boiler Control</strong></summary>
 
 Intelligent hot-water controller using M5Stack Core2.
 - On-device touch UI plus LAN web frontend
 - DS18B20-based temperature monitoring
 - Automated Legionella protection cycles
 - and much more ...
-  
-<summary><strong>c) CCDS - ClassicCarDiagnosticSystem</strong></summary>
+
+</details>
+
+</td>
+</tr>
+
+<!-- PROJECT C: CCDS - ClassicCarDiagnosticSystem -->
+<tr>
+<td>
+
+### 🔷 CCDS - ClassicCarDiagnosticSystem
+
+<details>
+<summary><strong>&emsp;&emsp;Click here for details on ClassicCarDiagnosticSystem</strong></summary>
 
 Telemetry and logging platform for classic vehicles.
 - Distributed ESP32 architecture
 - Real-time monitoring of critical engine metrics
 - AFR/Lambda, oil pressure, RPM, speed, oil temperature, TPS, MAP
 - and much more ...
-  
-<summary><strong>d) Ultra-Low-Cost Vibration Sensor</strong></summary>
+
+</details>
+
+</td>
+</tr>
+
+<!-- PROJECT D: Ultra-Low-Cost Vibration Sensor -->
+<tr>
+<td>
+
+### 🔷 Ultra-Low-Cost Vibration Sensor
+
+<details>
+<summary><strong>&emsp;&emsp;Click here for details on the Vibration Sensor</strong></summary>
 
 Compact edge sensor for predictive maintenance on X/Y/Z axes.
 - On-device metrics: RMS acceleration, RMS velocity (ISO 10816), crest, envelope crest, kurtosis, K(t), peak-to-peak, trend, temperature
@@ -110,6 +206,11 @@ Compact edge sensor for predictive maintenance on X/Y/Z axes.
 - VFFT includes 1x/2x/3x RPM markers, sideband and harmonic analysis
 - Browser tools for operation, OTA updates, backup/restore, and password protection
 - and much more ...
+
+</details>
+
+</td>
+</tr>
 
 ---
 
