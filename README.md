@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+<a id="deutsch"></a>
 ### Über mich
 
 Ich bin Armin Pressler und dokumentiere auf [Armin-Pressler.at](https://www.armin-pressler.at/) Projekte an der Schnittstelle von Technik, Wissenschaft und Kunst.
@@ -60,7 +60,7 @@ Kompakter Edge-Sensor für Predictive Maintenance auf X/Y/Z.
 
 ---
 ---
-
+<a id="english"></a>
 ## About Me
 I am Armin Pressler, and on [Armin-Pressler.at](https://www.armin-pressler.at/) I document projects at the intersection of technology, science, and art.
 
