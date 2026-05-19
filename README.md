@@ -1,10 +1,30 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=100&section=header&text=Armin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=5000&color=3B82F6&center=true&vCenter=true&multiline=false&width=700&height=20&lines=Maker+%7C+Tech_Enthusiast" alt="Typing SVG" />
+</div>
+<br>
 <p align="center">
   <a href="#deutsch"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-1F4E79?style=for-the-badge"></a>
   <a href="#english"><img alt="English" src="https://img.shields.io/badge/English-4F6D7A?style=for-the-badge"></a>
 </p>
-<h3 align="center">💻 Maker | 🚀 Tech Enthusiast</h3>
+
 
 <!--
+
+&desc=Projects&descAlignY=55&descSize=20
+
+https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Input%20text&reversal=false&textBg=false&animation=fadeIn&fontAlignY=30&fontAlign=50
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Armin&fontSize=40&animation=fadeIn" />
+</div>
+
+<h3 align="center">💻 Maker | 🚀 Tech Enthusiast</h3>
+
 <p align="center">
   <img alt="C++" height="18" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=Plastic" />
   <img alt="C" height="18" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=Plastic" />
@@ -17,14 +37,28 @@
   <img alt="HTML" height="18" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=Plastic" />
   <img alt="CSS" height="18" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=Plastic" />
 </p>
-!-->
 
----
+![Metrics](/github-metrics.svg)
+![Streak](/github-streak.svg)
 
 <p align="center">
   <img width=30% height=auto src="https://github.com/ArminPP/ArminPP/blob/master/github-metrics.svg" alt="GitHub Metrics" />
   <img width=36% height=auto  src="https://github.com/ArminPP/ArminPP/blob/master/github-streak.svg" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArminPP&theme=react-dark&hide_border=true&bg_color=0f172a&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=3b82f6"/>
+</p>
+
+
+!-->
+
+
+---
+<p align="center">
+  <img width=36% height=auto src="https://github.com/ArminPP/ArminPP/blob/master/github-metrics.svg" alt="GitHub Metrics" />
+  <img width=36% height=auto  src="https://github.com/ArminPP/ArminPP/blob/master/github-streak.svg" alt="GitHub Streak" />
+</p>
+
 
 ---
 
