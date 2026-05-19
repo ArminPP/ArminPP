@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArminPP/ArminPP/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://github.com/ArminPP/ArminPP/blob/master/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
