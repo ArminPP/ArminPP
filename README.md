@@ -22,11 +22,11 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArminPP/ArminPP/main/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/ArminPP/ArminPP/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArminPP&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/ArminPP/ArminPP/main/github-streak.svg" alt="GitHub Streak" />
 </p>
 ---
 
