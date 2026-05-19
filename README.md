@@ -34,7 +34,7 @@
 
 ### Über mich
 
-Ich bin Armin Patrick Pressler und dokumentiere auf [Armin-Pressler.at](https://www.armin-pressler.at/) Projekte an der Schnittstelle von Technik, Wissenschaft und Kunst.
+Ich bin Armin und dokumentiere auf [Armin-Pressler.at](https://www.armin-pressler.at/) Projekte an der Schnittstelle von Technik, Wissenschaft und Kunst.
 
 Leidenschaften:
 - Astrofotografie und Astronomie (Deep-Sky, Planeten, Sternenwarten)
@@ -138,7 +138,7 @@ Kompakter Edge-Sensor für Predictive Maintenance auf X/Y/Z.
 <a id="english"></a>
 
 ### About Me
-I am Armin Patrick Pressler, and on [Armin-Pressler.at](https://www.armin-pressler.at/) I document projects at the intersection of technology, science, and art.
+I am Armin, and on [Armin-Pressler.at](https://www.armin-pressler.at/) I document projects at the intersection of technology, science, and art.
 
 Passions:
 - Astrophotography and astronomy (deep-sky, planetary, observatory builds)
