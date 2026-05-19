@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArminPP/ArminPP/main/github-streak.svg" alt="GitHub Streak" />
+  <img src="https://github.com/ArminPP/ArminPP/blob/master/github-streak.svg" alt="GitHub Streak" />
 </p>
 ---
 
