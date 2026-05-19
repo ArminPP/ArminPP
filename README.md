@@ -22,12 +22,10 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/ArminPP/ArminPP/blob/master/github-metrics.svg" alt="GitHub Metrics" />
+  <img width=30% height=auto src="https://github.com/ArminPP/ArminPP/blob/master/github-metrics.svg" alt="GitHub Metrics" />
+  <img width=36% height=auto  src="https://github.com/ArminPP/ArminPP/blob/master/github-streak.svg" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/ArminPP/ArminPP/blob/master/github-streak.svg" alt="GitHub Streak" />
-</p>
 ---
 
 <a id="deutsch"></a>
