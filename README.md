@@ -2,7 +2,9 @@
   <a href="#deutsch"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-1F4E79?style=for-the-badge"></a>
   <a href="#english"><img alt="English" src="https://img.shields.io/badge/English-4F6D7A?style=for-the-badge"></a>
 </p>
+<h3 align="center">💻 Maker | 🚀 Tech Enthusiast</h3>
 
+<!--
 <p align="center">
   <img alt="C++" height="18" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=Plastic" />
   <img alt="C" height="18" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=Plastic" />
@@ -15,7 +17,17 @@
   <img alt="HTML" height="18" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=Plastic" />
   <img alt="CSS" height="18" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=Plastic" />
 </p>
+!-->
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArminPP/ArminPP/main/github-metrics.svg" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArminPP&theme=tokyonight" />
+</p>
 ---
 
 <a id="deutsch"></a>
@@ -40,7 +52,7 @@ Ich kombiniere diese Themen mit eigener Hard- und Software, um robuste und praxi
 <tr>
 <td>
 
-#### 🔷 StepperFocus32 (für astronomische Teleskope)
+#### ⭐ StepperFocus32 (für astronomische Teleskope)
 
 <details>
 <summary>&emsp;Hier klicken für Details zum StepperFocus32</summary>
@@ -61,7 +73,7 @@ Moonlite-kompatibler Teleskop-Fokussierer mit ESP32 und DRV8833.
 <tr>
 <td>
 
-#### 🔷 Boiler-Steuerung
+#### ⭐ Boiler-Steuerung
 
 <details>
 <summary>&emsp;Hier klicken für Details zur Boiler-Steuerung</summary>
@@ -81,7 +93,7 @@ Intelligente Warmwassersteuerung mit M5Stack Core2.
 <tr>
 <td>
 
-#### 🔷 CCDS - ClassicCarDiagnosticSystem
+#### ⭐ CCDS - ClassicCarDiagnosticSystem
 
 <details>
 <summary>&emsp;Hier klicken für Details zum ClassicCarDiagnosticSystem</summary>
@@ -101,7 +113,7 @@ Telemetrie- und Logging-System für klassische Fahrzeuge.
 <tr>
 <td>
 
-#### 🔷 Ultra-Low-Cost Schwingungssensor
+#### ⭐ Ultra-Low-Cost Schwingungssensor
 
 <details>
 <summary>&emsp;Hier klicken für Details zum Schwingungssensor</summary>
@@ -144,7 +156,7 @@ I combine these fields with custom hardware and software to build practical, rel
 <tr>
 <td>
 
-#### 🔷 StepperFocus32 (for astronomical telescopes)
+#### ⭐ StepperFocus32 (for astronomical telescopes)
 
 <details>
 <summary>&emsp;Click here for details on StepperFocus32</summary>
@@ -165,7 +177,7 @@ Moonlite-compatible telescope focuser based on ESP32 and DRV8833.
 <tr>
 <td>
 
-#### 🔷 Smart Boiler Control
+#### ⭐ Smart Boiler Control
 
 <details>
 <summary>&emsp;Click here for details on Smart Boiler Control</summary>
@@ -185,7 +197,7 @@ Intelligent hot-water controller using M5Stack Core2.
 <tr>
 <td>
 
-#### 🔷 CCDS - ClassicCarDiagnosticSystem
+#### ⭐ CCDS - ClassicCarDiagnosticSystem
 
 <details>
 <summary>&emsp;Click here for details on ClassicCarDiagnosticSystem</summary>
@@ -205,7 +217,7 @@ Telemetry and logging platform for classic vehicles.
 <tr>
 <td>
 
-#### 🔷 Ultra-Low-Cost Vibration Sensor
+#### ⭐ Ultra-Low-Cost Vibration Sensor
 
 <details>
 <summary>&emsp;Click here for details on the Vibration Sensor</summary>
