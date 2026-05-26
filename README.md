@@ -84,7 +84,7 @@ Ich kombiniere diese Themen mit eigener Hard- und Software, um robuste und praxi
 <tr>
 <td>
 
-#### ⭐ StepperFocus32 (für astronomische Teleskope)
+#### ⭐ <mark>StepperFocus32 (für astronomische Teleskope)</mark>
 
 <details>
 <summary>&emsp;Hier klicken für Details zum StepperFocus32</summary>
@@ -105,7 +105,7 @@ Moonlite-kompatibler Teleskop-Fokussierer mit ESP32 und DRV8833.
 <tr>
 <td>
 
-#### ⭐ Boiler-Steuerung
+#### ⭐ <mark>Boiler-Steuerung</mark>
 
 <details>
 <summary>&emsp;Hier klicken für Details zur Boiler-Steuerung</summary>
@@ -125,7 +125,7 @@ Intelligente Warmwassersteuerung mit M5Stack Core2.
 <tr>
 <td>
 
-#### ⭐ CCDS - ClassicCarDiagnosticSystem
+#### ⭐ <mark>CCDS - ClassicCarDiagnosticSystem</mark>
 
 <details>
 <summary>&emsp;Hier klicken für Details zum ClassicCarDiagnosticSystem</summary>
@@ -145,7 +145,7 @@ Telemetrie- und Logging-System für klassische Fahrzeuge.
 <tr>
 <td>
 
-#### ⭐ Ultra-Low-Cost Schwingungssensor
+#### ⭐ <mark>Ultra-Low-Cost Schwingungssensor</mark>
 
 <details>
 <summary>&emsp;Hier klicken für Details zum Schwingungssensor</summary>
@@ -188,7 +188,7 @@ I combine these fields with custom hardware and software to build practical, rel
 <tr>
 <td>
 
-#### ⭐ StepperFocus32 (for astronomical telescopes)
+#### ⭐ <mark>StepperFocus32 (for astronomical telescopes)</mark>
 
 <details>
 <summary>&emsp;Click here for details on StepperFocus32</summary>
@@ -209,7 +209,7 @@ Moonlite-compatible telescope focuser based on ESP32 and DRV8833.
 <tr>
 <td>
 
-#### ⭐ Smart Boiler Control
+#### ⭐ <mark>Smart Boiler Control</mark>
 
 <details>
 <summary>&emsp;Click here for details on Smart Boiler Control</summary>
@@ -229,7 +229,7 @@ Intelligent hot-water controller using M5Stack Core2.
 <tr>
 <td>
 
-#### ⭐ CCDS - ClassicCarDiagnosticSystem
+#### ⭐ <mark>CCDS - ClassicCarDiagnosticSystem</mark>
 
 <details>
 <summary>&emsp;Click here for details on ClassicCarDiagnosticSystem</summary>
@@ -249,7 +249,7 @@ Telemetry and logging platform for classic vehicles.
 <tr>
 <td>
 
-#### ⭐ Ultra-Low-Cost Vibration Sensor
+#### ⭐ <mark>Ultra-Low-Cost Vibration Sensor</mark>
 
 <details>
 <summary>&emsp;Click here for details on the Vibration Sensor</summary>
